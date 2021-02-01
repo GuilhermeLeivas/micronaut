@@ -1,0 +1,3 @@
+br.com.leivas.resource.$ProductResourceDefinitionClass
+br.com.leivas.repository.$ProductRepository$InterceptedDefinitionClass
+br.com.leivas.resource.$$ProductResourceDefinition$InterceptedDefinitionClass
